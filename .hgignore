@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-caches/
-backups/
-link/.ssh/authorized_keys
-link/.ssh/id_*
-link/.ssh/known_hosts
-*LOCAL*
-=======
+# Use shell-style glob syntax
+syntax: glob
+
 # Compiled Python files
 *.pyc
 
@@ -20,4 +15,3 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
->>>>>>> 2820b60a7b19d03e103be03ab2c71d9ad8c588f8
